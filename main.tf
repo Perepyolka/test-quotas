@@ -1,1 +1,2 @@
-qwe
+provider "aws" {}
+provider "azurerm" {}
